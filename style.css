@@ -113,3 +113,69 @@ body {
 .heroImage img {
     box-shadow: 5px 5px 5px #add8e6;
 }
+
+
+
+
+.dimensionContainer {
+    color: #272c33;
+}
+
+.dimensionTitle {
+    text-align: center;
+}
+
+.dimensionTitle h2 {
+    font-weight: bold;
+    letter-spacing: 2.0;
+    text-shadow: 2px 2px 5px;
+}
+
+.dimensionBox {
+    display: flex;
+    gap: 45px;
+    justify-content: center;
+}
+
+.dimensionBox > div {
+    border: 3px solid #272c33;
+    border-radius: 9px;
+    width: 200px;
+    height: 200px;
+    box-shadow: 5px 5px 3px;
+}
+
+.dimensionBox > div img {
+    width: 200px;
+    height: 200px;
+}
+
+.dimensionText {
+    text-align: center;
+    font-size: 16px;
+}
+
+
+
+
+.quoteContainer {
+    background-color: #e5e7eb;
+    height: 300px;
+    margin-top: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    opacity: 0.8;
+}
+
+.quoteText {
+    font-size: 24px;
+    color: #1f2937;
+    font-weight: 900;
+}
+
+.quoteAuthor {
+    display: flex;
+    justify-content: flex-end;
+    opacity: 0.7;
+}
