@@ -120,6 +120,7 @@ body {
 
 
 
+/* Dimension Information. */
 
 .dimensionContainer {
     color: #272c33;
@@ -161,6 +162,7 @@ body {
 
 
 
+/* Quote. */
 
 .quoteContainer {
     background-color: #e5e7eb;
@@ -192,6 +194,7 @@ body {
 
 
 
+/* Sign Up Invite. */
 
 .actionContainer {
     background-color: #3882f6;
@@ -230,6 +233,8 @@ body {
 
 
 
+
+/* Footer. */
 
 .footerContainer {
     background-color: #1f2937;
