@@ -140,6 +140,7 @@ body {
     display: flex;
     gap: 45px;
     justify-content: center;
+    flex-wrap: wrap;
 }
 
 .dimensionBox > div {
