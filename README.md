@@ -27,7 +27,7 @@ By completing this project, I have strengthened my web design foundations:
 ## Live demo / Preview
 You can view the project here:
 
-- [Click here to view the Live Demo] (https://therendev05.github.io/odin_landing_page/)
+- [Click here to view the Live Demo] (https://Thomas-Attanasio.github.io/odin_landing_page/)
 
 
 
